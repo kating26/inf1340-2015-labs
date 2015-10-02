@@ -22,12 +22,12 @@ def vowel_or_consonant():
 # Student Number: 993128671
 
 letter = raw_input ("Enter a letter ")
+sometimes_vowel = "y"
 vowel_1 = "a"
 vowel_2 = "e"
 vowel_3 = "i"
 vowel_4 = "o"
 vowel_5 = "u"
-sometimes_vowel = "y"
 
 if letter == sometimes_vowel:
     print ("sometimes a vowel, sometimes a consonant")
