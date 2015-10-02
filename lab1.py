@@ -19,9 +19,9 @@ def vowel_or_consonant():
     """
 
 # Katherine Ing's Code
-# Student Number: 993128671
+# Student number: 993128671
 
-letter = raw_input ("Enter a letter ")
+letter = raw_input("Enter a letter ")
 sometimes_vowel = "y"
 vowel_1 = "a"
 vowel_2 = "e"
